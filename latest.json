@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/cherneyivan-cloud/prosto-podpis/releases/tag/v1.2.1",
+  "version": "1.2.2",
+  "url": "https://github.com/cherneyivan-cloud/prosto-podpis/releases/tag/v1.2.2",
   "setup": "https://github.com/cherneyivan-cloud/prosto-podpis/releases/latest/download/ProstoPodpis-Setup.exe",
-  "notes": "Исправлен артефакт в углу окна. Проверка обновлений при запуске, установщик без прав администратора, шифрование документов, плавные анимации."
+  "notes": "Исправления по ревью: случайный IV, безопасные PowerShell-скрипты установщика, разбор алгоритма CMS, точный счётчик подписей, откат установки."
 }
