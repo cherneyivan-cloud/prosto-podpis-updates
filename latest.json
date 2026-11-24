@@ -1,1 +1,5 @@
-{ "version": "1.0.0", "url": "https://github.com/cherneyivan-cloud/prosto-podpis/releases", "notes": "Initial release" }
+{
+  "version": "1.1.0",
+  "url": "https://github.com/cherneyivan-cloud/prosto-podpis/releases",
+  "notes": "Шифрование документов, плавные анимации интерфейса, новая иконка"
+}
