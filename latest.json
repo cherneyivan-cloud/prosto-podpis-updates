@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/cherneyivan-cloud/prosto-podpis/releases/tag/v1.2.3",
+  "version": "1.2.4",
+  "url": "https://github.com/cherneyivan-cloud/prosto-podpis/releases/tag/v1.2.4",
   "setup": "https://github.com/cherneyivan-cloud/prosto-podpis/releases/latest/download/ProstoPodpis-Setup.exe",
-  "notes": "При подписании и проверке больше не мелькает окно консоли Podpis-cli.exe."
+  "notes": "Проверка обновлений: свежий манифест через GitHub API, корректная строка версии."
 }
